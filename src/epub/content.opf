@@ -30,53 +30,89 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Brigadier Gerard Stories</dc:title>
 		<meta property="file-as" refines="#title">Brigadier Gerard Stories</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Napoleonic Wars, 1800-1815--Fiction</dc:subject>
+		<dc:subject id="subject-2">Adventure stories, English</dc:subject>
+		<dc:subject id="subject-3">War stories, English</dc:subject>
+		<dc:subject id="subject-4">France--History, Military--19th century--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85089767</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="schema:genre">TAG</meta>
+		<meta property="term" refines="#subject-2">sh85001077</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85145222</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85051434</meta>
+		<meta property="schema:genre">Adventure</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:abstract">DESCRIPTION</meta>
 		<dc:description>
 			LONG_DESCRIPTION
 		</dc:description>
 		<dc:language>en-GB</dc:language>
-		<dc:language>en-US</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<!--The Medal of Brigadier Gerard-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/The_Medal_of_Brigadier_Gerard</dc:source>
+		<!--How the Brigadier Held the King-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Held_the_King</dc:source>
+		<!--How the King Held the Brigadier-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_King_Held_the_Brigadier</dc:source>
+		<!--How the Brigadier Slew the Brothers of Ajaccio-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Slew_the_Brothers_of_Ajaccio</dc:source>
+		<!--How the Brigadier Came to the Castle of Gloom-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Came_to_the_Castle_of_Gloom</dc:source>
+		<!--How the Brigadier Took the Field Against the Marshal Millefleurs-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Took_the_Field_Against_the_Marshal_Millefleurs</dc:source>
+		<!--How the Brigadier Was Tempted by the Devil-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_was_Tempted_by_the_Devil</dc:source>
+		<!--How the Brigadier Played for a Kingdom-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Played_for_a_Kingdom</dc:source>
+		<!--The Crime of the Brigadier-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/The_Crime_of_the_Brigadier</dc:source>
+		<!--How Brigadier Gerard Lost His Ear-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_Brigadier_Gerard_Lost_His_Ear</dc:source>
+		<!--How the Brigadier Saved the Army-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Saved_the_Army</dc:source>
+		<!--How the Brigadier Rode to Minsk-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Rode_to_Minsk</dc:source>
+		<!--Brigadier Gerard at Waterloo-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/Brigadier_Gerard_at_Waterloo</dc:source>
+		<!--The Brigadier in England-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/The_Brigadier_in_England</dc:source>
+		<!--How the Brigadier Joined the Hussars of Conflans-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_the_Brigadier_Joined_the_Hussars_of_Conflans</dc:source>
+		<!--How Etienne Gerard Said Good-Bye to His Master-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/How_Etienne_Gerard_Said_Good-Bye_to_his_Master</dc:source>
+		<!--The Marriage of the Brigadier-->
+		<dc:source>https://www.arthur-conan-doyle.com/wiki/The_Marriage_of_the_Brigadier</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
-		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/arthur-conan-doyle_brigadier-gerard-stories" refines="#vcs-repository" rel="schema:codeRepository"/>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
 		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="schema:alternateName" refines="#author">Sir Arthur Conan Doyle</meta>
 		<link href="https://en.wikipedia.org/wiki/Arthur_Conan_Doyle" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79082292.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Édouard Detaille</dc:contributor>
+		<meta property="file-as" refines="#artist">Detaille, Édouard</meta>
+		<meta property="schema:alternateName" refines="#artist">Jean-Baptiste Édouard Detaille</meta>
+		<link href="https://en.wikipedia.org/wiki/%C3%89douard_Detaille" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n92096035" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Alexis Barquin</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Barquin, Alexis</meta>
+		<link href="https://www.arthur-conan-doyle.com/wiki/User:Alexis_Barquin" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Colin Samuels</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Samuels, Colin</meta>
+		<link href="https://www.linkedin.com/in/colinsamuels/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -94,7 +130,6 @@
 		<item href="text/brigadier-gerard-at-waterloo-part-one-the-adventure-of-the-forest-inn.xhtml" id="brigadier-gerard-at-waterloo-part-one-the-adventure-of-the-forest-inn.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/brigadier-gerard-at-waterloo-part-two-the-adventure-of-the-nine-prussian-horsemen.xhtml" id="brigadier-gerard-at-waterloo-part-two-the-adventure-of-the-nine-prussian-horsemen.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-brigadier-gerard-lost-his-ear.xhtml" id="how-brigadier-gerard-lost-his-ear.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-etienne-gerard-said-good-bye-to-his-master.xhtml" id="how-etienne-gerard-said-good-bye-to-his-master.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/how-the-brigadier-came-to-the-castle-of-gloom.xhtml" id="how-the-brigadier-came-to-the-castle-of-gloom.xhtml" media-type="application/xhtml+xml"/>
@@ -119,6 +154,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="toc.xhtml"/>
 		<itemref idref="the-medal-of-brigadier-gerard.xhtml"/>
 		<itemref idref="how-the-brigadier-held-the-king.xhtml"/>
 		<itemref idref="how-the-king-held-the-brigadier.xhtml"/>
@@ -137,7 +173,6 @@
 		<itemref idref="how-the-brigadier-joined-the-hussars-of-conflans.xhtml"/>
 		<itemref idref="how-etienne-gerard-said-good-bye-to-his-master.xhtml"/>
 		<itemref idref="the-marriage-of-the-brigadier.xhtml"/>
-		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
