@@ -108,10 +108,6 @@
 		<meta property="file-as" refines="#transcriber-1">Barquin, Alexis</meta>
 		<link href="https://www.arthur-conan-doyle.com/wiki/User:Alexis_Barquin" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-2" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Colin Samuels</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Samuels, Colin</meta>
 		<link href="https://www.linkedin.com/in/colinsamuels/" refines="#producer-1" rel="schema:url"/>
@@ -155,7 +151,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="toc.xhtml"/>
 		<itemref idref="the-medal-of-brigadier-gerard.xhtml"/>
 		<itemref idref="how-the-brigadier-held-the-king.xhtml"/>
 		<itemref idref="how-the-king-held-the-brigadier.xhtml"/>
