@@ -2,8 +2,4 @@ The text of *Brigadier Gerard Stories* originated in the texts at *The Arthur Co
 
 Those texts were manually revised to conform to scans (also at that site) of the original stories as published in *The Strand* magazine. The SE tools have further modified the texts to be more readable for modern American audiences such that these do not correspond completely to the originals.
 
-Note that some collections of the Brigadier Gerard stories have consolidated the two parts of "The Brigadier at Waterloo" into a single story. The two stories have been kept separate here as these were published separately in *The Strand* magazine. Note also that Brigadier Gerard appears as a supporting character in the Conan Doyle novel *Uncle Bernac* but that novel has been omitted from *Brigadier Gerard Stories* for obvious reasons.
-
-
-
-
+Note that while the two parts of "The Brigadier at Waterloo" were published separately in *The Strand* magazine, SE editorial direction was to consolidate the two parts into a single story. Note also that Brigadier Gerard appears as a supporting character in the Conan Doyle novel *Uncle Bernac* but that novel has been omitted from *Brigadier Gerard Stories* for obvious reasons.
